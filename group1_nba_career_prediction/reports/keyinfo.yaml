@@ -1,0 +1,24 @@
+---
+title: ADSI ML Report
+subtitle: NBA Career Prediction
+author: James Murray - 13879046
+institute: UTS
+classoption:
+  - article
+include-before: Version 0.1.0
+thanks:
+date: Feb 2022
+titlepage: true
+toc: true
+lof: false
+toc-own-page: true
+toc-title: Contents
+bibliography: true
+link-citations: true
+colorlinks: true
+urlcolour: blue
+citations: true
+columns: 2
+abstract: |
+  The following report is broken into several sections highlighting the experiments undertaken as part of the modelling process. The following GITHUB repository has the source code - https://github.com/James-8212913/group1_nba_career_prediction. The source code contains the complete code for the project.
+---
