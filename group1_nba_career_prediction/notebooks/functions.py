@@ -42,3 +42,11 @@ def tukeys_method(df, variable):
         if x <= inner_fence_le or x >= inner_fence_ue:
             outliers_poss.append(index)
     return outliers_prob, outliers_poss, inner_fence_le, inner_fence_ue
+
+
+Score: 0.62321
+Score: 0.62450
+Score: 0.66235
+Score: 0.68165
+Score: 0.69695
+Score: 0.69131
